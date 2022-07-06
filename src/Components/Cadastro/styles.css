@@ -1,0 +1,21 @@
+.Cadastro{
+    background-color: #C3A34E;
+    min-width:430px ;
+    max-width:500px ;
+    width: 430px;
+    height: 500px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    margin-right: 40px;
+    text-align: center;
+    font-size: 10px;
+    border-radius: 10px;
+
+
+
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    
+
+}

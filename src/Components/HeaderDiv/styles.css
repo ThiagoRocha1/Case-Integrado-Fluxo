@@ -1,0 +1,27 @@
+.HeaderDiv{
+
+    background-color: #3A7A48;
+    
+
+    height: 40px;
+    width: 90px;
+    border-radius: 10px;
+    margin-top: 4px;
+
+
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    text-align: center;
+    justify-content: left;
+
+    margin-top: 5px;
+
+
+}
+
+.LogoHeader{
+
+    height: 60px;
+    width: 60px;
+}
