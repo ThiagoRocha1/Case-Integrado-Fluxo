@@ -1,14 +1,14 @@
-.Head{
-    height: 100px;
-    width: 100%;
-    background-color: #3A7A48;
-    color:white;
-    display: flex;
-    flex-direction: row;
-    align-items: center;
-    justify-content: space-evenly;
-    
+.Head {
+  height: 100px;
+  width: 100%;
 
-    font-weight: bold;
-    font-size: 17px;
+  background-color: #3a7a48;
+  color: white;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-evenly;
+
+  font-weight: bold;
+  font-size: 17px;
 }

@@ -1,13 +1,13 @@
 import React from "react";
-import Cadastro from "../Cadastro";
 import "./styles.css";
 import AreaOrganizacao from "../AreaOrganizacao";
+import Checklist from "../Checklist";
 
-export default function Main() {
+export default function MainAdmin() {
   return (
     <div className="Main">
       <AreaOrganizacao />
-      <Cadastro />
+      <Checklist />
     </div>
   );
 }

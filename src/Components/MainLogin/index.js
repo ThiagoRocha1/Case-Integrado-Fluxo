@@ -1,13 +1,13 @@
 import React from "react";
-import Cadastro from "../Cadastro";
-import "./styles.css";
 import AreaOrganizacao from "../AreaOrganizacao";
+import LoginRegistro from "../LoginRegistro";
+import "./styles.css";
 
-export default function Main() {
+export default function MainLogin() {
   return (
     <div className="Main">
       <AreaOrganizacao />
-      <Cadastro />
+      <LoginRegistro />
     </div>
   );
 }
