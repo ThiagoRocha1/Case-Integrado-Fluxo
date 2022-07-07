@@ -14,6 +14,8 @@ export default function LoginRegistro() {
       <div className="Registro">
         <button className="Botao_Registro">Entrar</button>
         <button className="Botao_Registro">Cadastrar</button>
+        <button className="Botao_Registro">Trocar Senha</button>
+
       </div>
     </div>
   );

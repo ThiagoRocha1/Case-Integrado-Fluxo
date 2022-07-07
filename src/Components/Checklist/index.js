@@ -30,7 +30,7 @@ function Checklist() {
 
       <button className="botao_reset" onClick={resetar}>Reset</button>
 
-      <h1 className="Title">Tarefas restantes: {contador}</h1>
+      <h1 className="Title">Etapas restantes: {contador}</h1>
 
       <div className="componente-todo">
         <input className="checkbox" type={"checkbox"} />
@@ -43,7 +43,7 @@ function Checklist() {
         <input className="checkbox" type={"checkbox"} />
         <button className="botao_checklist" onClick={diminuir}>Check</button>
         <button className="botao_checklist" onClick={desmarcar}>Desfazer</button>
-        <div>Avaliaçao Realizada</div>
+        <div>Avaliação Realizada</div>
       </div>
 
       <div className="componente-todo">
