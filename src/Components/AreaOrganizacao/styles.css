@@ -1,3 +1,4 @@
+/*Estilização div de navegacao*/
 .Area_organizacao{
     background-color: #C3A34E;
     width:100%;
@@ -19,6 +20,8 @@
 
    
 }
+
+/*Estilização da div que contem o icone e o texto*/
 
 .DivOrganizacao{
 
@@ -45,6 +48,7 @@
 
 
 }
+/*Estilização dos icones*/
 
 .LogoArea{
 

@@ -1,3 +1,4 @@
+/* Estilização da Div do Header que contém os Icons e o texto */
 .HeaderDiv {
   background-color: #3a7a48;
 
@@ -15,6 +16,7 @@
   margin-top: 5px;
 }
 
+/* Estilização das imagens Logo Header*/
 .LogoHeader {
   height: 60px;
   width: 60px;

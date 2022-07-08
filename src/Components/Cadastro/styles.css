@@ -1,3 +1,4 @@
+/* Div das infos para marcar consulta*/
 .Cadastro {
   background-color: #c3a34e;
   color: white;
@@ -17,6 +18,8 @@
   flex-direction: column;
   justify-content: space-evenly;
 }
+
+/* Estilização dos botões do cadastro*/
 
 .botao_cadastro {
   border: 1px solid white;
